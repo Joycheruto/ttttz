@@ -1,0 +1,3 @@
+hello,it is me again 
+ i did the write mode which truncated the data that i had before
+ my bad
